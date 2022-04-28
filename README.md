@@ -1,1 +1,1 @@
-# Python_Training
+# This is a Python Tutorial which have below topics explained.
